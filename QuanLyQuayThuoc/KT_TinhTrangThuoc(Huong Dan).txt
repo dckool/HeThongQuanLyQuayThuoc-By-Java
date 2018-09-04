@@ -1,0 +1,8 @@
+﻿Quy định về thuốc khi kiểm tra hết số lượng:
+Đơn vị tính  :  Số lượng
+	Vien < 	50
+	Lo   < 	5
+	Hop  < 	2
+	Tupe < 	10
+	Goi  < 	5
+Khi thuốc xuống tới số lượng này thì hệ thống sẽ kiểm tra tình trạng và thông báo
